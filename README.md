@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @emersonlopesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Kivy Designer: Esta es una herramienta gráfica que te permite diseñar la interfaz de usuario de tu aplicación Kivy de forma visual. Facilita la creación de interfaces de usuario complejas y su integración en tu aplicación.
 
-<!---
-emersonlopesh/emersonlopesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Buildozer: Buildozer es una herramienta de compilación que facilita la creación de paquetes de distribución para aplicaciones Kivy en dispositivos Android. Te ayuda a empaquetar y compilar tu aplicación Python para que pueda ser instalada en dispositivos Android.
+
+Pyjnius: Pyjnius es una biblioteca que permite la interacción entre Python y código Java en dispositivos Android. Esto es útil cuando necesitas acceder a características nativas de Android que no están directamente disponibles en Kivy.
+
+Plyer: Plyer es una biblioteca que proporciona una interfaz unificada para acceder a características del dispositivo como la cámara, la geolocalización y las notificaciones. Es compatible con múltiples plataformas, incluyendo Android e iOS, lo que facilita el acceso a características nativas desde una aplicación Kivy en Python.
